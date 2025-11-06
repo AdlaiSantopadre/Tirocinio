@@ -1,8 +1,22 @@
 # Tirocinio
 
-## Journal 4 Novembre
+## Journal 4 Novembre (88/150)
 
-## Journal 3 Novembre
+Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo ( 2 peers ,1 order)
+
+
+
+
+## Journal 3 Novembre (80/15)
+
+**Approfondimenti"**
+
+ Mastering Blockchain, Fourth Edition/Chapter 14, Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
+
+Documentazione ufficiale Fabric
+
+Peers,Orderers,Chaincode,Ledgers, Organization s,Applications,Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
+
 
 ## Journal 30 Ottobre (72/150)
 
