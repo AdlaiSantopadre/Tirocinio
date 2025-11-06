@@ -1,16 +1,16 @@
 # Tirocinio
 
-## Journal 30 Ottobre
+## Journal 30 Ottobre 
 **Confronto tra vantaggi e svantaggi delle soluzioni 
 1-Hyperledger Fabric  (with std PKI)
-2-Hyperledger Gabric with SSI
+2-Hyperledger Fabric with SSI
 3-Quora ( Ethereum ) with SSI**
 
 
 *ref.*
 https://www.lfdecentralizedtrust.org/blog/sunsetting-tessera-and-simplifying-hyperledger-besu
 
-**Approfondimento sul contesto**
+**Approfondimento sull'ambito di studio**
 
 Un biofilm è una comunità di microrganismi (come batteri, funghi e alghe) che si attaccano a una superficie e sono incapsulati in una matrice protettiva autoprodotta di sostanze polimeriche extracellulari (come zuccheri e proteine). Questi aggregati si possono formare su superfici inerte, come i dispositivi medici, o su superfici viventi, come i denti. La struttura del biofilm fornisce una maggiore resistenza agli agenti antimicrobici, al sistema immunitario e ad altre condizioni ambientali rispetto ai microrganismi che vivono in forma libera ("planktonica")
 
@@ -69,7 +69,7 @@ A Survey on Role of Blockchain for IoT: Applications and Technical Aspects,
 Abstract: In recent times, IoT has emerged as a new paradigm for the interconnection of heterogeneous, resource-constrained, and communication-capable smart devices. It has been anticipated as a key enabler for various domains of applications such as health care, automotive, agriculture, industrial operations, automation, energy, and the next generation of living. However, the current IoT applications face significant challenges in terms of the huge amount of collected data, intensive data exchange, security, privacy, centralized processing, and interoperability. To mitigate many of these issues, blockchain has been identified as a promising innovative technology. Blockchain, in conjunction with smart contracts, has received significant attention both from the industry and academia and offers features such as irreversibility, non-repudiation, proof of provenance, fault tolerance, pseudonymity, decentralized operations and decision-making, and distributed ledger. The integration of blockchain with IoT requires essential insights concerning the application areas, scalability, security, privacy, data college and storage, performance, and governance. Thus, this paper intends to expound on the opportunities and key aspects of using blockchain in the IoT landscape. Specifically, this paper surveys the utilization of blockchain for various IoT applications. Besides, the paper distinguishes different technical aspects and presents the associated research challenges. At last, future research directions are discussed depending on the lessons learned.
 Keywords: Blockchain; Smart contracts; DLT; Internet of Things (IoT)
 
-## 25 Ottobre
+## Journal 25 Ottobre (24/150)
 
 **Implementazione di una rete di peers privata secondo il Framework Besu con algoritmo di consenso QBFT**
 
@@ -112,12 +112,13 @@ To operate a validator node, node operators must also run a validator client and
 
 Validators earn rewards for performing validator duties, and fee recipients also earn rewards for the inclusion of execution layer transactions.
 
-## Journal 18 Settembre
+## Journal 18 Settembre (16/150)
 
 **La Blockchain e le primitive di sicurezza di cui fa uso**
 *registrazione su Bleanded Uniurb della lezione 01/04 del 21 Maggio 2025 tenuta dal Prof.Aldini nell`ambito dell`insegnamento Sicurezza Informatica*
 
 **Approfondimento su modelli di autenticazione , access control e scalabilità**
+
 *ref*
 M Kokila, Srinivasa Reddy K,
 Authentication, access control and scalability models in Internet of Things Security–A review,
@@ -144,5 +145,9 @@ access to services and resources without sharing passwords, using standards like
 for access delegation and tokens (e.g., JSON Web Tokens, JWT) for managing sessions and 
 information transmission securely."
 
-** Journal 12 Settembre
-**Studio del testo Mastering Blockchain 
+##Journal 12 Settembre (8/150)
+
+** Argomenti dal testo Mastering Blockchain **
+
+Ethereum permissioned
+
