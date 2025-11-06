@@ -150,4 +150,50 @@ information transmission securely."
 ** Argomenti dal testo Mastering Blockchain **
 
 Ethereum permissioned
+## Journal 12 Settembre (32/150)
+
+**Permissive / Non permissive Blockchain
+Public /Private Blockchain
+
+Algoritmi di consenso:Pratical ByzantineFaultTolelance PBFT
+
+Hyperledger Fabric (ecosistema)**
+
+
+
+Mastering Blockchain
+@book{bashir2023mastering, title = {Mastering Blockchain: Unlocking the World of Cryptocurrencies, Smart Contracts, and Decentralized Applications}, author = {Bashir, Imran}, edition = {4}, year = {2023}, publisher = {Packt Publishing} }
+
+## Journal 11 Settembre (24/150)
+
+**Unified Modeling language-
+Applicazione di diagrammi UML alla analisi dei requisiti per il modello DCMS""
+
+Diagramma concettuale del modello
+Diagramma dei casi d'uso
+Diagramma sequenziale
+##Journal 10 Settembre (16/150)
+
+**Analisi dei requisiti non-funzionali**
+
+Non-functional requirements
+"In systems engineering and requirements engineering, a non-functional requirement (NFR) is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours ....The plan for implementing non-functional requirements is detailed in the system architecture, because they are usually architecturally significant requirements"
+
+quote wikipedia
+
+Definizioni
+
+Availability 
+Security
+Usability
+Scalability
+Reliability
+
+##Journal 9 Settembre (8/150)
+
+**Progetto Sanichain/Analisi dei requisiti funzionali del sistema di Disinfection and Cleaning Management System**
+
+Contesto Analisi dei metodi di igienizzazione tradizionale,dei punti carenti della disinfezione operata da personale ,delle prospettive di nuovi prodotti ,nuove tecniche,e della introduzione e di metodi di trattamento con luce UV in modo automatico.Documento non conclusivo del 2016
+
+JM Boyce, Modern technologies for improving cleaning and disinfection of environmental surfaces in hospitals., in Antimicrobial resistance and infection control, vol. 5, 2016, p. 10, DOI:10.1186/s13756-016-0111-x, PMC 4827199, PMID 27069623.
 
