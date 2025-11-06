@@ -4,7 +4,7 @@
 
 ## Journal 4 Novembre (88/150)
 
-Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo ( 2 peers ,1 order)
+Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo ( 2 peers ,1 orderer)
 
 
 
