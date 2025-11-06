@@ -1,6 +1,11 @@
 # Tirocinio
 
-## Journal 30 Ottobre 
+## Journal 4 Novembre
+
+## Journal 3 Novembre
+
+## Journal 30 Ottobre (72/150)
+
 **Confronto tra vantaggi e svantaggi delle soluzioni 
 1-Hyperledger Fabric  (with std PKI)
 2-Hyperledger Fabric with SSI
@@ -35,13 +40,13 @@ ISSN 0195-6701,
 https://doi.org/10.1016/j.jhin.2024.11.010.
 (https://www.sciencedirect.com/science/article/pii/S019567012400389X)
 
-## Journal 29 Ottobre
+## Journal 29 Ottobre (64/150)
 
 **Approfondimento Documentazione ufficiale Fabric**
 
 Peers,Orderers,Chaincode,Ledgers, Organizations,Applications,Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
 
-## Journal 28 Ottobre
+## Journal 28 Ottobre (56/150)
 
 **Approfondimento dell`ecosistema LF Hyperledger con studio del capitolo 14 del testo Mastering Blockchain**
 https://www.hyperledger.org
@@ -49,7 +54,8 @@ Mastering Blockchain, Fourth Edition
 
 Chapter 14, Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
 
-## Journal 26 Ottobre
+## Journal 27 Ottobre
+
 **Approfondimento sul contesto**
 
 Casini, B.; Tuvo, B.; Scarpaci, M.; Totaro, M.; Badalucco, F.; Briani, S.; Luchini, G.; Costa, A.L.; Baggiani, A.
@@ -57,7 +63,7 @@ Implementation of an Environmental Cleaning Protocol in Hospital Critical Areas 
 Int. J. Environ. Res. Public Health 2023, 20, 4284. 
 https://doi.org/10.3390/ijerph20054284
 
-## Journal 25 Ottobre
+## Journal 25 Ottobre ()
 
 **Indagine sugli utilizzi e gli aspetti tecnici della DLT Blockchain in ambito IOT**
 
@@ -69,7 +75,7 @@ A Survey on Role of Blockchain for IoT: Applications and Technical Aspects,
 Abstract: In recent times, IoT has emerged as a new paradigm for the interconnection of heterogeneous, resource-constrained, and communication-capable smart devices. It has been anticipated as a key enabler for various domains of applications such as health care, automotive, agriculture, industrial operations, automation, energy, and the next generation of living. However, the current IoT applications face significant challenges in terms of the huge amount of collected data, intensive data exchange, security, privacy, centralized processing, and interoperability. To mitigate many of these issues, blockchain has been identified as a promising innovative technology. Blockchain, in conjunction with smart contracts, has received significant attention both from the industry and academia and offers features such as irreversibility, non-repudiation, proof of provenance, fault tolerance, pseudonymity, decentralized operations and decision-making, and distributed ledger. The integration of blockchain with IoT requires essential insights concerning the application areas, scalability, security, privacy, data college and storage, performance, and governance. Thus, this paper intends to expound on the opportunities and key aspects of using blockchain in the IoT landscape. Specifically, this paper surveys the utilization of blockchain for various IoT applications. Besides, the paper distinguishes different technical aspects and presents the associated research challenges. At last, future research directions are discussed depending on the lessons learned.
 Keywords: Blockchain; Smart contracts; DLT; Internet of Things (IoT)
 
-## Journal 25 Ottobre (24/150)
+## Journal 25 Ottobre (48/150)
 
 **Implementazione di una rete di peers privata secondo il Framework Besu con algoritmo di consenso QBFT**
 
@@ -112,10 +118,10 @@ To operate a validator node, node operators must also run a validator client and
 
 Validators earn rewards for performing validator duties, and fee recipients also earn rewards for the inclusion of execution layer transactions.
 
-## Journal 18 Settembre (16/150)
+## Journal 18 Settembre (40/150)
 
 **La Blockchain e le primitive di sicurezza di cui fa uso**
-*registrazione su Bleanded Uniurb della lezione 01/04 del 21 Maggio 2025 tenuta dal Prof.Aldini nell`ambito dell`insegnamento Sicurezza Informatica*
+*registrazione su Bleanded Uniurb della lezione 01/04 del 21 Maggio 2025 tenuta dal Prof.Aldini nell`ambito dell`insegnamento Sicurezza Informatica**
 
 **Approfondimento su modelli di autenticazione , access control e scalabilità**
 
@@ -145,11 +151,8 @@ access to services and resources without sharing passwords, using standards like
 for access delegation and tokens (e.g., JSON Web Tokens, JWT) for managing sessions and 
 information transmission securely."
 
-##Journal 12 Settembre (8/150)
 
-** Argomenti dal testo Mastering Blockchain **
 
-Ethereum permissioned
 ## Journal 12 Settembre (32/150)
 
 **Permissive / Non permissive Blockchain
@@ -172,7 +175,8 @@ Applicazione di diagrammi UML alla analisi dei requisiti per il modello DCMS""
 Diagramma concettuale del modello
 Diagramma dei casi d'uso
 Diagramma sequenziale
-##Journal 10 Settembre (16/150)
+
+## Journal 10 Settembre (16/150)
 
 **Analisi dei requisiti non-funzionali**
 
@@ -189,7 +193,7 @@ Usability
 Scalability
 Reliability
 
-##Journal 9 Settembre (8/150)
+## Journal 9 Settembre (8/150)
 
 **Progetto Sanichain/Analisi dei requisiti funzionali del sistema di Disinfection and Cleaning Management System**
 
