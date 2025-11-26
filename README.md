@@ -2,7 +2,27 @@
 
 *Nota:per le giornate con richiesta di permesso studio la frazione (x/150) sta per ore totali progressive x su ore totali di tirocinio 150*
 
+## Journal 21 Novembre (104/150)
+SSI studio delle soluzioni di implementazione
+
+Book
+Decentralized Identity Explained: Embrace decentralization for a more secure and empowering digital experience.
+Pinto, Rohan 
+Packt Publishing 2024
+
+## Journal 17 Novembre (96/150)
+Revisione Modello concettuale
+Revisione Modello dei casi d' uso
+
+
 ## Journal 4 Novembre (88/150)
+
+#Identificazione e analisi critica tecnologie applicative per BlockChain di tracciamento#
+
+Redazione Deliverable
+*Problemi progettuali da affrontare*
+
+
 
 Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo ( 2 peers ,1 orderer)
 
