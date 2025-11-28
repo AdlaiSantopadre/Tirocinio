@@ -2,12 +2,32 @@
 
 *Nota:per le giornate con richiesta di permesso studio la frazione (x/150) sta per ore totali progressive x su ore totali di tirocinio 150*
 
+## Journal 27 Novembre (128/150)
+
+
+## Journal 26 Novembre (120/150)
+
+Hyperledger Fabric
+
+Testo: Blockchain with Hyperledger Fabric - 2nd edition
+Packt Publishing 
+cap 2 e 3 
+
+(Nitin Gaur, Salman Baset, Anthony O'Dowd, Novotny, Luc Desrosiers, Ramakrishna, Baset - 2000
+
+
+## Journal 25 Novembre (112/150)
+
+Diagramma di flusso dei dati
+Revisione Modello concettuale
+Revisione Modello dei casi d'uso
+
+
 ## Journal 21 Novembre (104/150)
 
 SSI studio delle soluzioni di implementazione
 
-Book
-Decentralized Identity Explained: Embrace decentralization for a more secure and empowering digital experience.
+Testo:Decentralized Identity Explained: Embrace decentralization for a more secure and empowering digital experience.
 Pinto, Rohan 
 Packt Publishing 2024
 
@@ -15,7 +35,7 @@ Packt Publishing 2024
 
 #Identificazione e analisi critica tecnologie applicative per BlockChain di tracciamento#
 
-Redazione Deliverable
+Redazione di Deliverable
 *Problemi progettuali da affrontare*
 
 
@@ -32,9 +52,10 @@ Implementazione di una rete di test ( in locale) Fabric con algoritmo di consens
 
 **Approfondimenti"**
 
- Mastering Blockchain, Fourth Edition/Chapter 14, Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
+Testo Mastering Blockchain, Fourth Edition
+Chapter 14: Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
 
-Documentazione ufficiale Fabric
+Documentazione ufficiale Fabric:
 
 Peers,Orderers,Chaincode,Ledgers, Organization s,Applications,Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
 
@@ -47,14 +68,14 @@ Peers,Orderers,Chaincode,Ledgers, Organization s,Applications,Fabric Gateway,Ide
 3-Quora ( Ethereum ) with SSI**
 
 
-*ref.*
+Riferimenti 
 https://www.lfdecentralizedtrust.org/blog/sunsetting-tessera-and-simplifying-hyperledger-besu
 
 **Approfondimento sull'ambito di studio**
 
 Un biofilm è una comunità di microrganismi (come batteri, funghi e alghe) che si attaccano a una superficie e sono incapsulati in una matrice protettiva autoprodotta di sostanze polimeriche extracellulari (come zuccheri e proteine). Questi aggregati si possono formare su superfici inerte, come i dispositivi medici, o su superfici viventi, come i denti. La struttura del biofilm fornisce una maggiore resistenza agli agenti antimicrobici, al sistema immunitario e ad altre condizioni ambientali rispetto ai microrganismi che vivono in forma libera ("planktonica")
 
-*ref.* 
+*Riferimento* 
 Front. Microbiol., 22 July 2025
 Sec. Antimicrobials, Resistance and Chemotherapy
 Volume 16 - 2025 | https://doi.org/10.3389/fmicb.2025.1570334
@@ -62,7 +83,7 @@ Assessment of the anti-biofilm effect of UV-C irradiation (254 nm) against healt
 
 Introduction: Biofilm-related Multidrug Resistance (MDR) is a major problem in healthcare-associated infections (HAI). Hospital surface decontamination is essential to ensure the safety of patients and to eliminate the dissemination of MDR pathogens. New eco-friendly decontamination technologies, such as UV-C irradiation, are only gaining popularity now, but their use against the biofilm of common microorganisms causing HAI has not been properly assessed. We aimed to assess the efficacy of UV-C irradiation (254 nm) in a 2-phase study by assessing its anti-biofilm effect against sessile cells from microorganisms of hospital interest.
 
-
+*riferimento*
 B. Casini, M. Scarpaci, F. Chiovelli, S. Leonetti, A.L. Costa, M. Baroni, M. Petrillo, F. Cavallo,
 
 Antimicrobial efficacy of an experimental UV-C robot in controlled conditions and in a real hospital scenario,
