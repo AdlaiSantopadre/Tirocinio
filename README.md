@@ -11,7 +11,8 @@ Hyperledger Fabric
 
 Testo: Blockchain with Hyperledger Fabric - 2nd edition
 Packt Publishing 
-cap 2 e 3 
+cap 2 Blockchain – An Enterprise and Industry Perspective 
+cap 3 Exploring Hyperledger Fabric
 
 (Nitin Gaur, Salman Baset, Anthony O'Dowd, Novotny, Luc Desrosiers, Ramakrishna, Baset - 2000
 
@@ -43,7 +44,7 @@ Redazione di Deliverable
 ## Journal 4 Novembre (88/150)
 
 
-Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo ( 2 peers ,1 orderer)
+Implementazione di una rete di test ( in locale) Fabric con algoritmo di consenso RAFT ,due Organizations su un channel singolo (2 peers ,1 orderer)
 
 
 
@@ -57,12 +58,12 @@ Chapter 14: Hyperledger, presents a discussion about the Hyperledger project fro
 
 Documentazione ufficiale Fabric:
 
-Peers,Orderers,Chaincode,Ledgers, Organization s,Applications,Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
+Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
 
 
 ## Journal 30 Ottobre (72/150)
 
-**Confronto tra vantaggi e svantaggi delle soluzioni 
+**Confronto architettura delle soluzioni 
 1-Hyperledger Fabric  (with std PKI)
 2-Hyperledger Fabric with SSI
 3-Quora ( Ethereum ) with SSI**
@@ -71,36 +72,26 @@ Peers,Orderers,Chaincode,Ledgers, Organization s,Applications,Fabric Gateway,Ide
 Riferimenti 
 https://www.lfdecentralizedtrust.org/blog/sunsetting-tessera-and-simplifying-hyperledger-besu
 
-**Approfondimento sull'ambito di studio**
+**Approfondimenti sull'ambito di studio**
 
-Un biofilm è una comunità di microrganismi (come batteri, funghi e alghe) che si attaccano a una superficie e sono incapsulati in una matrice protettiva autoprodotta di sostanze polimeriche extracellulari (come zuccheri e proteine). Questi aggregati si possono formare su superfici inerte, come i dispositivi medici, o su superfici viventi, come i denti. La struttura del biofilm fornisce una maggiore resistenza agli agenti antimicrobici, al sistema immunitario e ad altre condizioni ambientali rispetto ai microrganismi che vivono in forma libera ("planktonica")
 
-*Riferimento* 
-Front. Microbiol., 22 July 2025
-Sec. Antimicrobials, Resistance and Chemotherapy
-Volume 16 - 2025 | https://doi.org/10.3389/fmicb.2025.1570334
-Assessment of the anti-biofilm effect of UV-C irradiation (254 nm) against healthcare associated infections related microorganisms
+*Riferimenti:* 
 
-Introduction: Biofilm-related Multidrug Resistance (MDR) is a major problem in healthcare-associated infections (HAI). Hospital surface decontamination is essential to ensure the safety of patients and to eliminate the dissemination of MDR pathogens. New eco-friendly decontamination technologies, such as UV-C irradiation, are only gaining popularity now, but their use against the biofilm of common microorganisms causing HAI has not been properly assessed. We aimed to assess the efficacy of UV-C irradiation (254 nm) in a 2-phase study by assessing its anti-biofilm effect against sessile cells from microorganisms of hospital interest.
+Assessment of the anti-biofilm effect of UV-C irradiation (254 nm) against healthcare associated infections related microorganism 
 
-*riferimento*
-B. Casini, M. Scarpaci, F. Chiovelli, S. Leonetti, A.L. Costa, M. Baroni, M. Petrillo, F. Cavallo,
+https://doi.org/10.3389/fmicb.2025.1570334
+
 
 Antimicrobial efficacy of an experimental UV-C robot in controlled conditions and in a real hospital scenario,
 
-Journal of Hospital Infection,
-Volume 156,
-2025,
-Pages 72-77,
-ISSN 0195-6701,
 https://doi.org/10.1016/j.jhin.2024.11.010.
-(https://www.sciencedirect.com/science/article/pii/S019567012400389X)
+
 
 ## Journal 29 Ottobre (64/150)
 
 **Approfondimento Documentazione ufficiale Fabric**
 
-Peers,Orderers,Chaincode,Ledgers, Organizations,Applications,Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
+Peers,Orderers,Chaincode,Ledgers, Organizations,Applications
 
 ## Journal 28 Ottobre (56/150)
 
@@ -108,13 +99,11 @@ Peers,Orderers,Chaincode,Ledgers, Organizations,Applications,Fabric Gateway,Iden
 https://www.hyperledger.org
 Mastering Blockchain, Fourth Edition
 
-Chapter 14, Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
 
 ## Journal 27 Ottobre
 
-**Approfondimento sul contesto**
+**Approfondimento sull'ambito di studio**
 
-Casini, B.; Tuvo, B.; Scarpaci, M.; Totaro, M.; Badalucco, F.; Briani, S.; Luchini, G.; Costa, A.L.; Baggiani, A.
 Implementation of an Environmental Cleaning Protocol in Hospital Critical Areas Using a UV-C Disinfection Robot.
 Int. J. Environ. Res. Public Health 2023, 20, 4284. 
 https://doi.org/10.3390/ijerph20054284
@@ -126,22 +115,14 @@ https://doi.org/10.3390/ijerph20054284
 *ref*
 Shikha Mathur, Anshuman Kalla, Gürkan Gür, Manoj Kumar Bohra, Madhusanka Liyanage,
 A Survey on Role of Blockchain for IoT: Applications and Technical Aspects,
-
-(https://www.sciencedirect.com/science/article/pii/S1389128623001718)
-Abstract: In recent times, IoT has emerged as a new paradigm for the interconnection of heterogeneous, resource-constrained, and communication-capable smart devices. It has been anticipated as a key enabler for various domains of applications such as health care, automotive, agriculture, industrial operations, automation, energy, and the next generation of living. However, the current IoT applications face significant challenges in terms of the huge amount of collected data, intensive data exchange, security, privacy, centralized processing, and interoperability. To mitigate many of these issues, blockchain has been identified as a promising innovative technology. Blockchain, in conjunction with smart contracts, has received significant attention both from the industry and academia and offers features such as irreversibility, non-repudiation, proof of provenance, fault tolerance, pseudonymity, decentralized operations and decision-making, and distributed ledger. The integration of blockchain with IoT requires essential insights concerning the application areas, scalability, security, privacy, data college and storage, performance, and governance. Thus, this paper intends to expound on the opportunities and key aspects of using blockchain in the IoT landscape. Specifically, this paper surveys the utilization of blockchain for various IoT applications. Besides, the paper distinguishes different technical aspects and presents the associated research challenges. At last, future research directions are discussed depending on the lessons learned.
-Keywords: Blockchain; Smart contracts; DLT; Internet of Things (IoT)
-
+ 
 ## Journal 25 Ottobre (48/150)
 
 **Implementazione di una rete di peers privata secondo il Framework Besu con algoritmo di consenso QBFT**
 
--Configure and run a private QBFT(POA) Besu Network 
+-Configure and run a private QBFT(POA) Besu Network / Deploy and configure a new validator node/Deploy and explore analitics tools
 
--Deploy and configure a new validator node
-
--Deploy and explore analitics tools
-
-*ref*
+*riferimento*
 https://besu.hyperledger.org/public-networks/concepts/node-clients
 
 What's a full node?
@@ -167,12 +148,7 @@ Consensus clients
 
 The consensus client (also known as the beacon node, CL client or, formerly, the Eth2 client) implements the PoS consensus algorithm, which enables the network to achieve agreement based on validated data from the execution client. Consensus clients serve REST API requests and communicate with each other P2P.
 
-Consensus clients, such as Teku contain beacon node implementations. The beacon node is the primary link to the Beacon Chain (i.e. the consensus layer). A consensus client can run without the (bundled) validator to keep up with the head of the chain, allowing the node to stay synced.
-Validator clients
-
-To operate a validator node, node operators must also run a validator client and deposit the required ETH into the deposit contract. The validator client handles attestations and block proposal — i.e. performs validator duties on the consensus layer. The validator client may either be run in the same process as the beacon node or separately.
-
-Validators earn rewards for performing validator duties, and fee recipients also earn rewards for the inclusion of execution layer transactions.
+  
 
 ## Journal 18 Settembre (40/150)
 
