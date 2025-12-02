@@ -3,7 +3,13 @@
 *Nota:per le giornate con richiesta di permesso studio la frazione (x/150) sta per ore totali progressive x su ore totali di tirocinio 150*
 
 ## Journal 27 Novembre (128/150)
+Progettazione architettura di rete minimale
+Tutorial di Hyperledger Fabric
+https://hyperledger-fabric.readthedocs.io/en/latest/tutorials.html
 
+Testo: Blockchain with Hyperledger Fabric - 2nd edition
+Packt Publishing 
+cap 14 Hyperledger Fabric Security
 
 ## Journal 26 Novembre (120/150)
 
@@ -14,7 +20,7 @@ Packt Publishing
 cap 2 Blockchain – An Enterprise and Industry Perspective 
 cap 3 Exploring Hyperledger Fabric
 
-(Nitin Gaur, Salman Baset, Anthony O'Dowd, Novotny, Luc Desrosiers, Ramakrishna, Baset - 2000
+(Nitin Gaur, Salman Baset, Anthony O'Dowd, Novotny, Luc Desrosiers, Ramakrishna, Baset - 2000)
 
 
 ## Journal 25 Novembre (112/150)
@@ -53,11 +59,11 @@ Implementazione di una rete di test ( in locale) Fabric con algoritmo di consens
 
 **Approfondimenti"**
 
-Testo Mastering Blockchain, Fourth Edition
+Testo 
+Mastering Blockchain, Fourth Edition
 Chapter 14: Hyperledger, presents a discussion about the Hyperledger project from the Linux Foundation, which includes different blockchain projects introduced by its members.
 
 Documentazione ufficiale Fabric:
-
 Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifecycle,
 
 
@@ -68,8 +74,7 @@ Fabric Gateway,Identity,Membership Service Providers,Policies,Transactions lifec
 2-Hyperledger Fabric with SSI
 3-Quora ( Ethereum ) with SSI**
 
-
-Riferimenti 
+*ref*
 https://www.lfdecentralizedtrust.org/blog/sunsetting-tessera-and-simplifying-hyperledger-besu
 
 **Approfondimenti sull'ambito di studio**
@@ -120,42 +125,24 @@ A Survey on Role of Blockchain for IoT: Applications and Technical Aspects,
 
 **Implementazione di una rete di peers privata secondo il Framework Besu con algoritmo di consenso QBFT**
 
--Configure and run a private QBFT(POA) Besu Network / Deploy and configure a new validator node/Deploy and explore analitics tools
+Configure and run a private QBFT(POA) Besu Network / Deploy and configure a new validator node/Deploy and explore analitics tools
 
-*riferimento*
+*ref*
 https://besu.hyperledger.org/public-networks/concepts/node-clients
 
-What's a full node?
-...
 Ethereum's Proof of Stake (PoS) protocol leverages two separate P2P networks supporting separate clients. Execution clients gossip transactions over their network, enabling them to manage their local transaction pool. Consensus clients gossip blocks over their network, enabling consensus and chain growth. A validator node also runs the validator client.
 ...
 (Ethereum Merge node)
 As as result of the 2022 Merge, Ethereum Mainnet transitioned from Proof of Work (PoW) to PoS consensus.
 Execution and consensus clients
 Under PoS, a full Ethereum Mainnet node is a combination of an execution client (previously called an Eth1 client client) and a consensus client (previously called an Eth2 client). The consensus client uses the Engine API to communicate with the execution client.
-Execution clients
-
-Execution clients, such as Besu, manage the execution layer, including executing transactions and updating the world state. Execution clients serve JSON-RPC API requests and communicate with each other P2P.
-
-Besu is an execution client that you can run with:
-
-    Any consensus client on Mainnet.
-    Any consensus client on a testnet.
-    Teku on Mainnet.
-    Teku on a testnet.
-
-Consensus clients
-
-The consensus client (also known as the beacon node, CL client or, formerly, the Eth2 client) implements the PoS consensus algorithm, which enables the network to achieve agreement based on validated data from the execution client. Consensus clients serve REST API requests and communicate with each other P2P.
-
-  
 
 ## Journal 18 Settembre (40/150)
 
 **La Blockchain e le primitive di sicurezza di cui fa uso**
 *registrazione su Bleanded Uniurb della lezione 01/04 del 21 Maggio 2025 tenuta dal Prof.Aldini nell`ambito dell`insegnamento Sicurezza Informatica**
 
-**Approfondimento su modelli di autenticazione , access control e scalabilità**
+**Approfondimento su modelli di autenticazione,access control e scalabilità**
 
 *ref*
 M Kokila, Srinivasa Reddy K,
@@ -187,22 +174,21 @@ information transmission securely."
 
 ## Journal 12 Settembre (32/150)
 
-**Permissive / Non permissive Blockchain
-Public /Private Blockchain
-
-Algoritmi di consenso:Pratical ByzantineFaultTolelance PBFT
-
-Hyperledger Fabric (ecosistema)**
+* **Permissive / Non permissive Blockchain
+ Public /Private Blockchain**
 
 
+
+* **ecosistema Hyperledger Fabric**
 
 Mastering Blockchain
 @book{bashir2023mastering, title = {Mastering Blockchain: Unlocking the World of Cryptocurrencies, Smart Contracts, and Decentralized Applications}, author = {Bashir, Imran}, edition = {4}, year = {2023}, publisher = {Packt Publishing} }
 
+Algoritmi di consenso:Pratical ByzantineFaultTolelance PBFT
 ## Journal 11 Settembre (24/150)
 
-**Unified Modeling language-
-Applicazione di diagrammi UML alla analisi dei requisiti per il modello DCMS""
+**Unified Modeling language
+Applicazione di diagrammi UML alla analisi dei requisiti per il modello DCMS**
 
 Diagramma concettuale del modello
 Diagramma dei casi d'uso
@@ -211,19 +197,20 @@ Diagramma sequenziale
 ## Journal 10 Settembre (16/150)
 
 **Analisi dei requisiti non-funzionali**
+* Availability 
+* Security
+* Usability
+* Scalability
+* Reliability
 
 Non-functional requirements
 "In systems engineering and requirements engineering, a non-functional requirement (NFR) is a requirement that specifies criteria that can be used to judge the operation of a system, rather than specific behaviours ....The plan for implementing non-functional requirements is detailed in the system architecture, because they are usually architecturally significant requirements"
 
 quote wikipedia
 
-Definizioni
 
-Availability 
-Security
-Usability
-Scalability
-Reliability
+
+
 
 ## Journal 9 Settembre (8/150)
 
